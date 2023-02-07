@@ -1,3 +1,11 @@
 # Demo 3
 
-Some text
+No formatting
+
+## Sub Header
+
+Learning git is kool
+
+## Local Development
+
+Open index.html in your browser
